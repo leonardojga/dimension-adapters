@@ -23,7 +23,7 @@ const solana_fee_wallet_addresses = [
 
 // ETH fee wallet addresses
 const eth_fee_wallet_addresses = [
-  '0x1bcc58d165e5374d7b492b21c0a572fd61c0c2a0',
+  '0x01Bb5Be269b171151707E596aE2cA98e2f1ed121',
   '0x7afa9d836d2fccf172b66622625e56404e465dbd'
 ];
 
